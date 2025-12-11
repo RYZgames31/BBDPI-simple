@@ -2,7 +2,8 @@
   <p>
     <img src="https://github.com/romanvht/ByeDPIAndroid/raw/master/.github/images/app.svg" alt="Логотип ByeDPI" width="200" />
   </p>
-  <h1>ByeByeDPI Android</h1>
+  <h1>Simple ByeByeDPI Android</h1>
+  <h2>Упрощённый форк ByeByeDPI</h2>
   <p>
     Русский |
     <a href="README-en.md">English</a> |
@@ -22,7 +23,7 @@
 
 Приложение не является VPN. Оно использует VPN-режим на Android для перенаправления трафика, но не передает ничего на удаленный сервер. Оно не шифрует трафик и не скрывает ваш IP-адрес.
 
-Приложения является форком [ByeDPIAndroid](https://github.com/dovecoteescapee/ByeDPIAndroid)
+Приложения является форком [ByeByeDPI](https://github.com/romanvht/ByeByeDPI)
 
 ---
 
