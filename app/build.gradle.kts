@@ -12,7 +12,7 @@ android {
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "io.github.romanvht.byedpi"
+        applicationId = "dev.ryz.simpledpi"
         minSdk = 21
         //noinspection OldTargetApi
         targetSdk = 34
