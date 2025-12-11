@@ -41,7 +41,7 @@
         tools:text="127.0.0.1:1080" />
 
     <com.google.android.material.textview.MaterialTextView
-        android:visibility="gone
+        android:visibility="gone"
         android:id="@+id/open_editor_link"
         android:layout_width="wrap_content"
         android:layout_height="32dp"
